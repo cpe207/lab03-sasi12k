@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 2.0;
+    color: #3e392e;
+    background-color: #ffe9d6aa;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    display: block;
+    margin: 50px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: #3e392e;
+}
